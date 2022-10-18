@@ -14,7 +14,7 @@ sites:
 
 status-website:
   baseUrl: /kf
-  logoUrl: favicon: https://raw.githubusercontent.com/hickoryhouse/kfmonitor/master/assets/favicon.ico
+  logoUrl: https://raw.githubusercontent.com/hickoryhouse/kfmonitor/master/assets/Kiwi_Farms_Logo_Grey_Text.svgo
   name: Kiwi Farms Uptime Monitor
   introMessage: This site is not affiliated with nor operated by Kiwi Farms/Lolcow LLC.
   navbar:
