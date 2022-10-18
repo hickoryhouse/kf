@@ -4,7 +4,7 @@ repo: kf
 sites:
   - name: Kiwi Farms Forum
     url: https://kiwifarms.net
-    icon: https://raw.githubusercontent.com/hickoryhouse/kfmonitor/master/assets/favicon.ico
+    icon: https://raw.githubusercontent.com/hickoryhouse/kf/master/assets/favicon.ico
     expectedStatusCodes:
       - 403
   - name: Kiwi Farms Fediverse
@@ -14,7 +14,7 @@ sites:
 
 status-website:
   baseUrl: /kf
-  logoUrl: https://raw.githubusercontent.com/hickoryhouse/kfmonitor/master/assets/Kiwi_Farms_Logo_Grey_Text.svgo
+  logoUrl: https://raw.githubusercontent.com/hickoryhouse/kf/master/assets/Kiwi_Farms_Logo_Grey_Text.svgo
   name: Kiwi Farms Uptime Monitor
   introMessage: This site is not affiliated with nor operated by Kiwi Farms/Lolcow LLC.
   navbar:
@@ -23,4 +23,4 @@ status-website:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
   theme: night
-  favicon: https://raw.githubusercontent.com/hickoryhouse/kfmonitor/master/assets/favicon.ico
+  favicon: https://raw.githubusercontent.com/hickoryhouse/kf/master/assets/favicon.ico
