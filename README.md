@@ -24,6 +24,8 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 
 [**Visit our status website →**](https://hickoryhouse.github.io/kf)
 
+This site is not affiliated with nor operated by Kiwi Farms/Lolcow LLC.
+
 ## 📄 License
 
 - Powered by: [Upptime](https://github.com/upptime/upptime)
