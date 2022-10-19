@@ -24,3 +24,12 @@ status-website:
       href: https://github.com/$OWNER/$REPO
   theme: night
   favicon: https://raw.githubusercontent.com/hickoryhouse/kf/master/assets/favicon.ico
+
+workflowSchedule:
+  graphs: "10 */6 * * *"
+  responseTime: "5 */6 * * *"
+  staticSite: "15 */6 * * *"
+  summary: "15 */6 * * *"
+  updateTemplate: "0 0 * * *"
+  updates: "0 3 * * *"
+  uptime: "*/5 * * * *"
