@@ -19,7 +19,7 @@ status-website:
   introMessage: This site is not affiliated with nor operated by Kiwi Farms/Lolcow LLC.
   navbar:
     - title: Status
-      href: /
+      href: /kf
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
   theme: night
