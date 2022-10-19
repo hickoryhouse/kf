@@ -25,6 +25,10 @@ status-website:
   theme: night
   favicon: https://raw.githubusercontent.com/hickoryhouse/kf/master/assets/favicon.ico
 
+skipDescriptionUpdate: true
+skipTopicsUpdate: true
+skipHomepageUpdate: true
+
 workflowSchedule:
   graphs: "10 */6 * * *"
   responseTime: "5 */6 * * *"
