@@ -4,19 +4,19 @@
     "url": "https://kiwifarms.net",
     "icon": "https://raw.githubusercontent.com/hickoryhouse/kf/master/assets/favicon.ico",
     "slug": "kiwi-farms-forum",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1128,
-    "timeDay": 1297,
-    "timeWeek": 1128,
-    "timeMonth": 1128,
-    "timeYear": 1128,
+    "status": "up",
+    "uptime": "99.33%",
+    "uptimeDay": "98.81%",
+    "uptimeWeek": "99.33%",
+    "uptimeMonth": "99.33%",
+    "uptimeYear": "99.33%",
+    "time": 1096,
+    "timeDay": 1227,
+    "timeWeek": 1096,
+    "timeMonth": 1096,
+    "timeYear": 1096,
     "dailyMinutesDown": {
-      "2022-10-19": 0
+      "2022-10-19": 17
     }
   },
   {
