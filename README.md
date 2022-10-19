@@ -1,4 +1,4 @@
-# [📈 Live Status](https://hickoryhouse.github.io/kf): <!--live status--> **🟩 All systems operational**
+# [Live Status](https://hickoryhouse.github.io/kf): <!--live status--> **🟩 All systems operational**
 
 This repository contains the open-source uptime monitor and status page for [hickoryhouse](https://hickoryhouse.github.io/kf), powered by [Upptime](https://github.com/upptime/upptime).
 
@@ -26,7 +26,7 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 
 This site is not affiliated with nor operated by Kiwi Farms/Lolcow LLC.
 
-## 📄 License
+## License
 
 - Powered by: [Upptime](https://github.com/upptime/upptime)
 - Code: [MIT](./LICENSE) © [hickoryhouse](https://hickoryhouse.github.io/kf)
