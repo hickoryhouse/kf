@@ -43,18 +43,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/git.kiwifarms.net.ico",
     "slug": "kiwi-foss-git",
     "status": "down",
-    "uptime": "91.63%",
-    "uptimeDay": "70.12%",
-    "uptimeWeek": "91.63%",
-    "uptimeMonth": "91.63%",
-    "uptimeYear": "91.63%",
+    "uptime": "91.61%",
+    "uptimeDay": "70.03%",
+    "uptimeWeek": "91.61%",
+    "uptimeMonth": "91.61%",
+    "uptimeYear": "91.61%",
     "time": 493,
     "timeDay": 461,
     "timeWeek": 493,
     "timeMonth": 493,
     "timeYear": 493,
     "dailyMinutesDown": {
-      "2022-10-21": 182,
+      "2022-10-21": 183,
       "2022-10-20": 248
     }
   }
