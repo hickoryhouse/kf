@@ -7,6 +7,7 @@ sites:
     icon: https://raw.githubusercontent.com/hickoryhouse/kf/master/assets/favicon.ico
     expectedStatusCodes:
       - 403
+      - 200
   - name: Kiwi Farms Fediverse
     url: https://kiwifarms.cc
   - name: Kiwi FOSS Git
