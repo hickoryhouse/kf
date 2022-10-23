@@ -14,13 +14,13 @@ sites:
     url: https://git.kiwifarms.net
 
 status-website:
-  baseUrl: /kf
+  baseUrl: /
   logoUrl: https://raw.githubusercontent.com/hickoryhouse/kf/master/assets/Kiwi_Farms_Logo_Grey_Text.svg
   name: Kiwi Farms Uptime Monitor
   introMessage: This site is not affiliated with nor operated by Kiwi Farms/Lolcow LLC.
   navbar:
     - title: Status
-      href: /kf
+      href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
   theme: night
