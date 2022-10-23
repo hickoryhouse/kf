@@ -18,13 +18,13 @@
 
 <!--end: status pages-->
 
-[**Visit our status website on github.io →**](https://hickoryhouse.github.io/)
+[**Visit our status website on github.io →**](https://hickoryhouse.github.io/kf/)
 
 This site is not affiliated with nor operated by Kiwi Farms/Lolcow LLC.
 
 ##
 
-This repository contains the open-source uptime monitor and status page for [hickoryhouse](https://hickoryhouse.github.io/kf), powered by [Upptime](https://github.com/upptime/upptime). With [Upptime](https://upptime.js.org), you can get your own unlimited and free uptime monitor and status page, powered entirely by a GitHub repository. We use [Issues](https://github.com/hickoryhouse/kf/issues) as incident reports, [Actions](https://github.com/hickoryhouse/kf/actions) as uptime monitors, and [Pages](https://hickoryhouse.github.io/) for the status page.
+This repository contains the open-source uptime monitor and status page for [hickoryhouse](https://hickoryhouse.github.io/kf), powered by [Upptime](https://github.com/upptime/upptime). With [Upptime](https://upptime.js.org), you can get your own unlimited and free uptime monitor and status page, powered entirely by a GitHub repository. We use [Issues](https://github.com/hickoryhouse/kf/issues) as incident reports, [Actions](https://github.com/hickoryhouse/kf/actions) as uptime monitors, and [Pages](https://hickoryhouse.github.io/kf) for the status page.
 
 ## License
 
