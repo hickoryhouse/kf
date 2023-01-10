@@ -1,7 +1,7 @@
 url: https://kiwifarms.net
-status: up
-code: 200
-responseTime: 1120
-lastUpdated: 2023-01-09T18:25:08.557Z
+status: down
+code: 502
+responseTime: 646
+lastUpdated: 2023-01-10T00:43:32.830Z
 startTime: Tue Oct 18 2022 00:44:14 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
