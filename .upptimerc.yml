@@ -8,6 +8,7 @@ sites:
     expectedStatusCodes:
       - 403
       - 200
+      - 203
   - name: Kiwi Farms Fediverse
     url: https://kiwifarms.cc
   - name: Kiwi FOSS Git
