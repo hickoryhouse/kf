@@ -4,9 +4,9 @@
     "url": "https://kiwifarms.net",
     "icon": "https://raw.githubusercontent.com/hickoryhouse/kf/master/assets/favicon.ico",
     "slug": "kiwi-farms-forum",
-    "status": "up",
+    "status": "down",
     "uptime": "91.01%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.96%",
     "uptimeWeek": "89.54%",
     "uptimeMonth": "97.24%",
     "uptimeYear": "91.01%",
@@ -16,6 +16,7 @@
     "timeMonth": 638,
     "timeYear": 2172,
     "dailyMinutesDown": {
+      "2023-04-10": 1,
       "2023-04-08": 871,
       "2023-04-07": 165,
       "2023-04-05": 18,
@@ -86,7 +87,7 @@
     "timeMonth": 0,
     "timeYear": 380,
     "dailyMinutesDown": {
-      "2023-04-10": 1108,
+      "2023-04-10": 1293,
       "2023-04-09": 1440,
       "2023-04-08": 1440,
       "2023-04-07": 1440,
@@ -276,7 +277,7 @@
     "timeMonth": 0,
     "timeYear": 482,
     "dailyMinutesDown": {
-      "2023-04-10": 1108,
+      "2023-04-10": 1293,
       "2023-04-09": 1440,
       "2023-04-08": 1440,
       "2023-04-07": 1440,
