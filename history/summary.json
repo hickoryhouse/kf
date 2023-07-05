@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 2062,
     "dailyMinutesDown": {
-      "2023-07-05": 439,
+      "2023-07-05": 468,
       "2023-07-04": 1440,
       "2023-07-03": 1440,
       "2023-07-02": 1440,
@@ -143,18 +143,20 @@
     "url": "https://sneed.today/",
     "icon": "https://raw.githubusercontent.com/hickoryhouse/kf/master/assets/favicon.ico",
     "slug": "sneed-today-forum",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "96.18%",
+    "uptimeDay": "96.18%",
+    "uptimeWeek": "96.18%",
+    "uptimeMonth": "96.18%",
+    "uptimeYear": "96.18%",
     "time": 958,
     "timeDay": 958,
     "timeWeek": 958,
     "timeMonth": 958,
     "timeYear": 958,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-05": 1
+    }
   },
   {
     "name": "Kiwi Farms Fediverse",
@@ -173,7 +175,7 @@
     "timeMonth": 0,
     "timeYear": 2213,
     "dailyMinutesDown": {
-      "2023-07-05": 439,
+      "2023-07-05": 468,
       "2023-07-04": 1440,
       "2023-07-03": 1440,
       "2023-07-02": 1440,
@@ -436,7 +438,7 @@
     "timeMonth": 0,
     "timeYear": 503,
     "dailyMinutesDown": {
-      "2023-07-05": 439,
+      "2023-07-05": 468,
       "2023-07-04": 1440,
       "2023-07-03": 1440,
       "2023-07-02": 1440,
