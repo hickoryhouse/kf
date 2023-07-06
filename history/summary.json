@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 2062,
     "dailyMinutesDown": {
-      "2023-07-06": 398,
+      "2023-07-06": 408,
       "2023-07-05": 1440,
       "2023-07-04": 1440,
       "2023-07-03": 1440,
@@ -144,19 +144,19 @@
     "url": "https://sneed.today/",
     "icon": "https://raw.githubusercontent.com/hickoryhouse/kf/master/assets/favicon.ico",
     "slug": "sneed-today-forum",
-    "status": "down",
-    "uptime": "98.71%",
-    "uptimeDay": "98.71%",
-    "uptimeWeek": "98.71%",
-    "uptimeMonth": "98.71%",
-    "uptimeYear": "98.71%",
-    "time": 4174,
-    "timeDay": 4174,
-    "timeWeek": 4174,
-    "timeMonth": 4174,
-    "timeYear": 4174,
+    "status": "up",
+    "uptime": "98.09%",
+    "uptimeDay": "98.09%",
+    "uptimeWeek": "98.09%",
+    "uptimeMonth": "98.09%",
+    "uptimeYear": "98.09%",
+    "time": 3899,
+    "timeDay": 3899,
+    "timeWeek": 3899,
+    "timeMonth": 3899,
+    "timeYear": 3899,
     "dailyMinutesDown": {
-      "2023-07-06": 18
+      "2023-07-06": 27
     }
   },
   {
@@ -176,7 +176,7 @@
     "timeMonth": 0,
     "timeYear": 2213,
     "dailyMinutesDown": {
-      "2023-07-06": 398,
+      "2023-07-06": 408,
       "2023-07-05": 1440,
       "2023-07-04": 1440,
       "2023-07-03": 1440,
@@ -440,7 +440,7 @@
     "timeMonth": 0,
     "timeYear": 503,
     "dailyMinutesDown": {
-      "2023-07-06": 398,
+      "2023-07-06": 408,
       "2023-07-05": 1440,
       "2023-07-04": 1440,
       "2023-07-03": 1440,
