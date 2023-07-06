@@ -5,18 +5,18 @@
     "icon": "https://raw.githubusercontent.com/hickoryhouse/kf/master/assets/favicon.ico",
     "slug": "kiwi-farms-forum",
     "status": "down",
-    "uptime": "70.15%",
+    "uptime": "70.14%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "70.15%",
+    "uptimeYear": "70.14%",
     "time": 2062,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 2062,
     "dailyMinutesDown": {
-      "2023-07-06": 772,
+      "2023-07-06": 828,
       "2023-07-05": 1440,
       "2023-07-04": 1440,
       "2023-07-03": 1440,
@@ -144,9 +144,9 @@
     "url": "https://sneed.today/",
     "icon": "https://raw.githubusercontent.com/hickoryhouse/kf/master/assets/favicon.ico",
     "slug": "sneed-today-forum",
-    "status": "up",
+    "status": "down",
     "uptime": "97.93%",
-    "uptimeDay": "97.45%",
+    "uptimeDay": "97.37%",
     "uptimeWeek": "97.93%",
     "uptimeMonth": "97.93%",
     "uptimeYear": "97.93%",
@@ -156,7 +156,7 @@
     "timeMonth": 3227,
     "timeYear": 3227,
     "dailyMinutesDown": {
-      "2023-07-06": 37
+      "2023-07-06": 38
     }
   },
   {
@@ -176,7 +176,7 @@
     "timeMonth": 0,
     "timeYear": 2213,
     "dailyMinutesDown": {
-      "2023-07-06": 772,
+      "2023-07-06": 828,
       "2023-07-05": 1440,
       "2023-07-04": 1440,
       "2023-07-03": 1440,
@@ -440,7 +440,7 @@
     "timeMonth": 0,
     "timeYear": 503,
     "dailyMinutesDown": {
-      "2023-07-06": 772,
+      "2023-07-06": 828,
       "2023-07-05": 1440,
       "2023-07-04": 1440,
       "2023-07-03": 1440,
