@@ -16,6 +16,13 @@ sites:
       - 403
       - 200
       - 203
+  - name: @Kiwifarms Telegram Archive
+    url: https://tg.josh.rs/
+    icon: https://raw.githubusercontent.com/hickoryhouse/kf/master/assets/tg-favicon.png
+    expectedStatusCodes:
+      - 403
+      - 200
+      - 203  
   - name: Kiwi Farms Fediverse
     url: https://kiwifarms.cc
   - name: Kiwi FOSS Git
