@@ -16,7 +16,7 @@ sites:
       - 403
       - 200
       - 203
-  - name: @Kiwifarms Telegram Archive
+  - name: Kiwi Farms TG Archive
     url: https://tg.josh.rs/
     icon: https://raw.githubusercontent.com/hickoryhouse/kf/master/assets/tg-favicon.png
     expectedStatusCodes:
