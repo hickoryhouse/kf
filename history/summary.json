@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 2062,
     "dailyMinutesDown": {
-      "2023-07-27": 1337,
+      "2023-07-27": 1338,
       "2023-07-26": 1440,
       "2023-07-25": 1440,
       "2023-07-24": 1440,
@@ -185,7 +185,7 @@
     "slug": "sneed-today-forum",
     "status": "down",
     "uptime": "89.32%",
-    "uptimeDay": "75.94%",
+    "uptimeDay": "75.92%",
     "uptimeWeek": "96.56%",
     "uptimeMonth": "89.32%",
     "uptimeYear": "89.32%",
@@ -195,7 +195,7 @@
     "timeMonth": 1976,
     "timeYear": 1976,
     "dailyMinutesDown": {
-      "2023-07-27": 346,
+      "2023-07-27": 347,
       "2023-07-18": 21,
       "2023-07-17": 43,
       "2023-07-16": 61,
