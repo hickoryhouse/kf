@@ -1,7 +1,7 @@
 url: https://kiwifarms.pl
-status: up
-code: 200
-responseTime: 500
-lastUpdated: 2023-08-20T23:18:25.914Z
+status: down
+code: 502
+responseTime: 939
+lastUpdated: 2023-08-20T23:29:17.066Z
 startTime: 2023-07-27T22:16:18.000Z
 generator: Upptime <https://github.com/upptime/upptime>
