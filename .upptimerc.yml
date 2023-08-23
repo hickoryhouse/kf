@@ -9,8 +9,8 @@ sites:
       - 403
       - 200
       - 203
-  - name: kiwifarms.pl
-    url: https://kiwifarms.pl
+  - name: kiwifarms.st
+    url: https://kiwifarms.st
     icon: https://raw.githubusercontent.com/hickoryhouse/kf/master/assets/favicon.ico
     expectedStatusCodes:
       - 403
