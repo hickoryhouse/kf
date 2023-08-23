@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 2062,
     "dailyMinutesDown": {
-      "2023-08-23": 1295,
+      "2023-08-23": 1312,
       "2023-08-22": 1440,
       "2023-08-21": 1440,
       "2023-08-20": 1440,
@@ -192,19 +192,19 @@
     "url": "https://kiwifarms.st",
     "icon": "https://raw.githubusercontent.com/hickoryhouse/kf/master/assets/favicon.ico",
     "slug": "kiwifarms-st",
-    "status": "up",
-    "uptime": "74.72%",
-    "uptimeDay": "74.72%",
-    "uptimeWeek": "74.72%",
-    "uptimeMonth": "74.72%",
-    "uptimeYear": "74.72%",
-    "time": 1411,
-    "timeDay": 1411,
-    "timeWeek": 1411,
-    "timeMonth": 1411,
-    "timeYear": 1411,
+    "status": "down",
+    "uptime": "98.11%",
+    "uptimeDay": "98.11%",
+    "uptimeWeek": "98.11%",
+    "uptimeMonth": "98.11%",
+    "uptimeYear": "98.11%",
+    "time": 1364,
+    "timeDay": 1364,
+    "timeWeek": 1364,
+    "timeMonth": 1364,
+    "timeYear": 1364,
     "dailyMinutesDown": {
-      "2023-08-23": 11
+      "2023-08-23": 1
     }
   },
   {
@@ -245,7 +245,7 @@
     "timeMonth": 0,
     "timeYear": 2213,
     "dailyMinutesDown": {
-      "2023-08-23": 1295,
+      "2023-08-23": 1312,
       "2023-08-22": 1440,
       "2023-08-21": 1440,
       "2023-08-20": 1440,
@@ -557,7 +557,7 @@
     "timeMonth": 0,
     "timeYear": 503,
     "dailyMinutesDown": {
-      "2023-08-23": 1296,
+      "2023-08-23": 1312,
       "2023-08-22": 1440,
       "2023-08-21": 1440,
       "2023-08-20": 1440,
