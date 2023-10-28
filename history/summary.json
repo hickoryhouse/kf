@@ -4,18 +4,19 @@
     "url": "https://kiwifarms.net",
     "icon": "https://raw.githubusercontent.com/hickoryhouse/kf/master/assets/favicon.ico",
     "slug": "kiwi-farms-forum",
-    "status": "up",
-    "uptime": "57.38%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.29%",
-    "uptimeYear": "57.63%",
-    "time": 1912,
-    "timeDay": 825,
-    "timeWeek": 815,
-    "timeMonth": 1056,
+    "status": "down",
+    "uptime": "57.44%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.77%",
+    "uptimeYear": "57.77%",
+    "time": 1911,
+    "timeDay": 842,
+    "timeWeek": 829,
+    "timeMonth": 1068,
     "timeYear": 1920,
     "dailyMinutesDown": {
+      "2023-10-28": 1,
       "2023-10-09": 70,
       "2023-10-08": 31,
       "2023-09-27": 212,
@@ -212,8 +213,7 @@
       "2022-11-01": 299,
       "2022-10-31": 1440,
       "2022-10-30": 1440,
-      "2022-10-29": 1440,
-      "2022-10-28": 1440
+      "2022-10-29": 1440
     }
   },
   {
@@ -221,18 +221,19 @@
     "url": "https://kiwifarms.st",
     "icon": "https://raw.githubusercontent.com/hickoryhouse/kf/master/assets/favicon.ico",
     "slug": "kiwifarms-st",
-    "status": "up",
-    "uptime": "98.47%",
-    "uptimeDay": "91.08%",
-    "uptimeWeek": "98.52%",
+    "status": "down",
+    "uptime": "98.48%",
+    "uptimeDay": "91.03%",
+    "uptimeWeek": "98.51%",
     "uptimeMonth": "98.62%",
-    "uptimeYear": "98.47%",
-    "time": 1228,
-    "timeDay": 1176,
-    "timeWeek": 1286,
-    "timeMonth": 1353,
-    "timeYear": 1228,
+    "uptimeYear": "98.48%",
+    "time": 1229,
+    "timeDay": 1248,
+    "timeWeek": 1304,
+    "timeMonth": 1355,
+    "timeYear": 1229,
     "dailyMinutesDown": {
+      "2023-10-28": 1,
       "2023-10-27": 128,
       "2023-10-26": 21,
       "2023-10-16": 330,
@@ -263,8 +264,8 @@
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.84%",
     "time": 444,
-    "timeDay": 513,
-    "timeWeek": 547,
+    "timeDay": 445,
+    "timeWeek": 549,
     "timeMonth": 474,
     "timeYear": 444,
     "dailyMinutesDown": {
@@ -280,7 +281,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/kiwifarms.cc.ico",
     "slug": "kiwi-farms-fediverse",
     "status": "down",
-    "uptime": "7.21%",
+    "uptime": "7.20%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -291,7 +292,8 @@
     "timeMonth": 0,
     "timeYear": 2505,
     "dailyMinutesDown": {
-      "2023-10-27": 761,
+      "2023-10-28": 34,
+      "2023-10-27": 1440,
       "2023-10-26": 1440,
       "2023-10-25": 1440,
       "2023-10-24": 1440,
@@ -641,8 +643,7 @@
       "2022-11-01": 1440,
       "2022-10-31": 1440,
       "2022-10-30": 1440,
-      "2022-10-29": 1440,
-      "2022-10-28": 1440
+      "2022-10-29": 1440
     }
   },
   {
@@ -651,7 +652,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/git.kiwifarms.net.ico",
     "slug": "kiwi-foss-git",
     "status": "down",
-    "uptime": "6.29%",
+    "uptime": "6.28%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -662,7 +663,8 @@
     "timeMonth": 0,
     "timeYear": 511,
     "dailyMinutesDown": {
-      "2023-10-27": 761,
+      "2023-10-28": 34,
+      "2023-10-27": 1440,
       "2023-10-26": 1440,
       "2023-10-25": 1440,
       "2023-10-24": 1440,
@@ -1011,8 +1013,7 @@
       "2022-11-01": 1440,
       "2022-10-31": 1440,
       "2022-10-30": 1440,
-      "2022-10-29": 1440,
-      "2022-10-28": 1440
+      "2022-10-29": 1440
     }
   }
 ]
