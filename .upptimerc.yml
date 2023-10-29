@@ -27,6 +27,12 @@ sites:
     url: https://kiwifarms.cc
   - name: Kiwi FOSS Git
     url: https://git.kiwifarms.net
+  - name: Mad at the Internet
+    url: https://madattheinternet.com/
+    expectedStatusCodes:
+      - 403
+      - 200
+      - 203 
 
 status-website:
   baseUrl: /kf
