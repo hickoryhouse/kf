@@ -286,7 +286,7 @@
     "timeMonth": 0,
     "timeYear": 2505,
     "dailyMinutesDown": {
-      "2023-12-08": 1327,
+      "2023-12-08": 1342,
       "2023-12-07": 1440,
       "2023-12-06": 1440,
       "2023-12-05": 1440,
@@ -657,7 +657,7 @@
     "timeMonth": 0,
     "timeYear": 511,
     "dailyMinutesDown": {
-      "2023-12-08": 1327,
+      "2023-12-08": 1342,
       "2023-12-07": 1440,
       "2023-12-06": 1440,
       "2023-12-05": 1440,
@@ -1015,9 +1015,9 @@
     "url": "https://madattheinternet.com/",
     "icon": "https://icons.duckduckgo.com/ip3/madattheinternet.com.ico",
     "slug": "mad-at-the-internet",
-    "status": "up",
+    "status": "down",
     "uptime": "94.25%",
-    "uptimeDay": "94.85%",
+    "uptimeDay": "94.81%",
     "uptimeWeek": "99.26%",
     "uptimeMonth": "96.99%",
     "uptimeYear": "94.25%",
@@ -1027,7 +1027,7 @@
     "timeMonth": 1993,
     "timeYear": 1805,
     "dailyMinutesDown": {
-      "2023-12-08": 74,
+      "2023-12-08": 75,
       "2023-11-13": 850,
       "2023-11-12": 396,
       "2023-10-30": 892,
