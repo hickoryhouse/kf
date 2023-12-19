@@ -9,20 +9,27 @@ sites:
       - 403
       - 200
       - 203
-  - name: kiwifarms.st
+  - name: kiwifarms.tw
     url: https://kiwifarms.st
     icon: https://raw.githubusercontent.com/hickoryhouse/kf/master/assets/favicon.ico
     expectedStatusCodes:
       - 403
       - 200
       - 203  
+  - name: kiwifarms.st
+    url: https://kiwifarms.st
+    icon: https://raw.githubusercontent.com/hickoryhouse/kf/master/assets/favicon.ico
+    expectedStatusCodes:
+      - 403
+      - 200
+      - 203
   - name: Kiwi Farms TG Archive
     url: https://tg.josh.rs/
     icon: https://raw.githubusercontent.com/hickoryhouse/kf/master/assets/tg-favicon.png
     expectedStatusCodes:
       - 403
       - 200
-      - 203  
+      - 203
   - name: Kiwi Farms Fediverse
     url: https://kiwifarms.cc
   - name: Kiwi FOSS Git
@@ -32,7 +39,7 @@ sites:
     expectedStatusCodes:
       - 403
       - 200
-      - 203 
+      - 203
 
 status-website:
   baseUrl: /kf
