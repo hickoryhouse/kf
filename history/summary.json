@@ -6,9 +6,9 @@
     "slug": "kiwi-farms-forum",
     "status": "up",
     "uptime": "65.25%",
-    "uptimeDay": "86.23%",
-    "uptimeWeek": "69.77%",
-    "uptimeMonth": "86.52%",
+    "uptimeDay": "87.01%",
+    "uptimeWeek": "69.94%",
+    "uptimeMonth": "86.54%",
     "uptimeYear": "58.97%",
     "time": 1836,
     "timeDay": 2873,
@@ -16,7 +16,7 @@
     "timeMonth": 2647,
     "timeYear": 1607,
     "dailyMinutesDown": {
-      "2023-12-22": 197,
+      "2023-12-22": 186,
       "2023-12-21": 195,
       "2023-12-20": 165,
       "2023-12-19": 180,
@@ -205,7 +205,7 @@
       "2023-01-10": 62,
       "2023-01-03": 25,
       "2023-01-01": 332,
-      "2022-12-31": 107
+      "2022-12-31": 128
     }
   },
   {
@@ -214,18 +214,18 @@
     "icon": "https://raw.githubusercontent.com/hickoryhouse/kf/master/assets/favicon.ico",
     "slug": "kiwifarms-hk",
     "status": "up",
-    "uptime": "86.61%",
-    "uptimeDay": "86.46%",
-    "uptimeWeek": "86.61%",
-    "uptimeMonth": "86.61%",
-    "uptimeYear": "86.61%",
+    "uptime": "87.40%",
+    "uptimeDay": "87.21%",
+    "uptimeWeek": "87.40%",
+    "uptimeMonth": "87.40%",
+    "uptimeYear": "87.40%",
     "time": 648,
     "timeDay": 658,
     "timeWeek": 648,
     "timeMonth": 648,
     "timeYear": 648,
     "dailyMinutesDown": {
-      "2023-12-22": 196
+      "2023-12-22": 185
     }
   },
   {
@@ -233,9 +233,9 @@
     "url": "https://kiwifarms.tw",
     "icon": "https://raw.githubusercontent.com/hickoryhouse/kf/master/assets/favicon.ico",
     "slug": "kiwifarms-tw",
-    "status": "up",
+    "status": "down",
     "uptime": "76.92%",
-    "uptimeDay": "87.80%",
+    "uptimeDay": "87.71%",
     "uptimeWeek": "76.92%",
     "uptimeMonth": "76.92%",
     "uptimeYear": "76.92%",
@@ -245,7 +245,7 @@
     "timeMonth": 1519,
     "timeYear": 1519,
     "dailyMinutesDown": {
-      "2023-12-22": 176,
+      "2023-12-22": 177,
       "2023-12-21": 433,
       "2023-12-20": 455,
       "2023-12-19": 47
@@ -259,12 +259,12 @@
     "status": "up",
     "uptime": "97.44%",
     "uptimeDay": "83.37%",
-    "uptimeWeek": "72.86%",
+    "uptimeWeek": "72.89%",
     "uptimeMonth": "93.33%",
     "uptimeYear": "97.44%",
     "time": 1289,
     "timeDay": 2019,
-    "timeWeek": 1665,
+    "timeWeek": 1641,
     "timeMonth": 1496,
     "timeYear": 1289,
     "dailyMinutesDown": {
@@ -345,7 +345,7 @@
     "timeMonth": 0,
     "timeYear": 2505,
     "dailyMinutesDown": {
-      "2023-12-22": 1419,
+      "2023-12-22": 1426,
       "2023-12-21": 1440,
       "2023-12-20": 1440,
       "2023-12-19": 1440,
@@ -716,7 +716,7 @@
     "timeMonth": 0,
     "timeYear": 511,
     "dailyMinutesDown": {
-      "2023-12-22": 1419,
+      "2023-12-22": 1426,
       "2023-12-21": 1440,
       "2023-12-20": 1440,
       "2023-12-19": 1440,
@@ -1075,18 +1075,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/madattheinternet.com.ico",
     "slug": "mad-at-the-internet",
     "status": "down",
-    "uptime": "83.13%",
+    "uptime": "83.12%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "8.17%",
-    "uptimeMonth": "77.15%",
-    "uptimeYear": "83.13%",
+    "uptimeWeek": "8.10%",
+    "uptimeMonth": "77.13%",
+    "uptimeYear": "83.12%",
     "time": 2911,
     "timeDay": 0,
     "timeWeek": 7124,
     "timeMonth": 3378,
     "timeYear": 2911,
     "dailyMinutesDown": {
-      "2023-12-22": 1419,
+      "2023-12-22": 1426,
       "2023-12-21": 1440,
       "2023-12-20": 1440,
       "2023-12-19": 1440,
