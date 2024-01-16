@@ -12,7 +12,7 @@
     "uptimeYear": "99.30%",
     "time": 1866,
     "timeDay": 2514,
-    "timeWeek": 3085,
+    "timeWeek": 3094,
     "timeMonth": 2641,
     "timeYear": 1792,
     "dailyMinutesDown": {
@@ -56,7 +56,7 @@
     "uptimeYear": "86.39%",
     "time": 497,
     "timeDay": 310,
-    "timeWeek": 647,
+    "timeWeek": 631,
     "timeMonth": 497,
     "timeYear": 497,
     "dailyMinutesDown": {
@@ -101,7 +101,7 @@
     "timeMonth": 1516,
     "timeYear": 1516,
     "dailyMinutesDown": {
-      "2024-01-16": 1369,
+      "2024-01-16": 1380,
       "2024-01-15": 1440,
       "2024-01-14": 1440,
       "2024-01-13": 1440,
@@ -145,7 +145,7 @@
     "uptimeYear": "98.61%",
     "time": 1408,
     "timeDay": 2300,
-    "timeWeek": 2102,
+    "timeWeek": 2108,
     "timeMonth": 1516,
     "timeYear": 1408,
     "dailyMinutesDown": {
@@ -216,7 +216,7 @@
     "timeMonth": 0,
     "timeYear": 2505,
     "dailyMinutesDown": {
-      "2024-01-16": 1369,
+      "2024-01-16": 1380,
       "2024-01-15": 1440,
       "2024-01-14": 1440,
       "2024-01-13": 1440,
@@ -587,7 +587,7 @@
     "timeMonth": 0,
     "timeYear": 511,
     "dailyMinutesDown": {
-      "2024-01-16": 1369,
+      "2024-01-16": 1380,
       "2024-01-15": 1440,
       "2024-01-14": 1440,
       "2024-01-13": 1440,
@@ -945,11 +945,11 @@
     "url": "https://madattheinternet.com/",
     "icon": "https://icons.duckduckgo.com/ip3/madattheinternet.com.ico",
     "slug": "mad-at-the-internet",
-    "status": "up",
+    "status": "down",
     "uptime": "70.93%",
-    "uptimeDay": "73.08%",
-    "uptimeWeek": "90.11%",
-    "uptimeMonth": "35.30%",
+    "uptimeDay": "74.18%",
+    "uptimeWeek": "90.15%",
+    "uptimeMonth": "35.33%",
     "uptimeYear": "70.93%",
     "time": 2644,
     "timeDay": 782,
@@ -957,7 +957,7 @@
     "timeMonth": 3129,
     "timeYear": 2644,
     "dailyMinutesDown": {
-      "2024-01-16": 318,
+      "2024-01-16": 313,
       "2024-01-15": 383,
       "2024-01-11": 298,
       "2024-01-08": 973,
