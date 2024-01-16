@@ -6,9 +6,9 @@
     "slug": "kiwi-farms-forum",
     "status": "up",
     "uptime": "99.44%",
-    "uptimeDay": "91.66%",
-    "uptimeWeek": "94.56%",
-    "uptimeMonth": "91.65%",
+    "uptimeDay": "92.48%",
+    "uptimeWeek": "94.68%",
+    "uptimeMonth": "91.61%",
     "uptimeYear": "99.30%",
     "time": 1884,
     "timeDay": 3293,
@@ -16,7 +16,6 @@
     "timeMonth": 2716,
     "timeYear": 1787,
     "dailyMinutesDown": {
-      "2024-01-16": 12,
       "2024-01-15": 108,
       "2024-01-13": 52,
       "2024-01-11": 312,
@@ -41,7 +40,7 @@
       "2023-12-23": 129,
       "2023-12-22": 186,
       "2023-12-21": 195,
-      "2023-12-20": 89
+      "2023-12-20": 114
     }
   },
   {
@@ -102,7 +101,7 @@
     "timeMonth": 1516,
     "timeYear": 1516,
     "dailyMinutesDown": {
-      "2024-01-16": 432,
+      "2024-01-16": 447,
       "2024-01-15": 1440,
       "2024-01-14": 1440,
       "2024-01-13": 1440,
@@ -217,7 +216,7 @@
     "timeMonth": 0,
     "timeYear": 2505,
     "dailyMinutesDown": {
-      "2024-01-16": 432,
+      "2024-01-16": 447,
       "2024-01-15": 1440,
       "2024-01-14": 1440,
       "2024-01-13": 1440,
@@ -588,7 +587,7 @@
     "timeMonth": 0,
     "timeYear": 511,
     "dailyMinutesDown": {
-      "2024-01-16": 432,
+      "2024-01-16": 447,
       "2024-01-15": 1440,
       "2024-01-14": 1440,
       "2024-01-13": 1440,
@@ -946,11 +945,11 @@
     "url": "https://madattheinternet.com/",
     "icon": "https://icons.duckduckgo.com/ip3/madattheinternet.com.ico",
     "slug": "mad-at-the-internet",
-    "status": "up",
+    "status": "down",
     "uptime": "70.84%",
-    "uptimeDay": "63.06%",
-    "uptimeWeek": "91.77%",
-    "uptimeMonth": "34.14%",
+    "uptimeDay": "63.01%",
+    "uptimeWeek": "91.76%",
+    "uptimeMonth": "34.17%",
     "uptimeYear": "70.84%",
     "time": 2782,
     "timeDay": 807,
@@ -958,7 +957,7 @@
     "timeMonth": 4579,
     "timeYear": 2782,
     "dailyMinutesDown": {
-      "2024-01-16": 149,
+      "2024-01-16": 150,
       "2024-01-15": 383,
       "2024-01-11": 298,
       "2024-01-08": 973,
