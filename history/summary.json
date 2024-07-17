@@ -70,7 +70,7 @@
     "timeMonth": 0,
     "timeYear": 277,
     "dailyMinutesDown": {
-      "2024-07-17": 1347,
+      "2024-07-17": 1379,
       "2024-07-16": 1440,
       "2024-07-15": 1440,
       "2024-07-14": 1440,
@@ -302,7 +302,7 @@
     "timeMonth": 0,
     "timeYear": 1516,
     "dailyMinutesDown": {
-      "2024-07-17": 1348,
+      "2024-07-17": 1379,
       "2024-07-16": 1440,
       "2024-07-15": 1440,
       "2024-07-14": 1440,
@@ -566,10 +566,10 @@
     "url": "https://tg.josh.rs/",
     "icon": "https://raw.githubusercontent.com/hickoryhouse/kf/master/assets/tg-favicon.png",
     "slug": "kiwi-farms-tg-archive",
-    "status": "up",
+    "status": "down",
     "uptime": "99.25%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.24%",
     "time": 480,
@@ -578,6 +578,7 @@
     "timeMonth": 641,
     "timeYear": 481,
     "dailyMinutesDown": {
+      "2024-07-17": 1,
       "2024-05-29": 51,
       "2023-12-21": 492,
       "2023-12-20": 1440,
@@ -606,7 +607,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-07-17": 1348,
+      "2024-07-17": 1380,
       "2024-07-16": 1440,
       "2024-07-15": 1440,
       "2024-07-14": 1440,
@@ -990,7 +991,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-07-17": 1348,
+      "2024-07-17": 1380,
       "2024-07-16": 1440,
       "2024-07-15": 1440,
       "2024-07-14": 1440,
