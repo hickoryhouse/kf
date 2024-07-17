@@ -4,18 +4,19 @@
     "url": "https://kiwifarms.net",
     "icon": "https://raw.githubusercontent.com/hickoryhouse/kf/master/assets/favicon.ico",
     "slug": "kiwi-farms-forum",
-    "status": "up",
+    "status": "down",
     "uptime": "99.52%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.15%",
+    "uptimeYear": "99.16%",
     "time": 2135,
     "timeDay": 3294,
     "timeWeek": 2134,
     "timeMonth": 2041,
     "timeYear": 2135,
     "dailyMinutesDown": {
+      "2024-07-17": 1,
       "2024-05-04": 37,
       "2024-04-30": 36,
       "2024-04-28": 19,
@@ -50,7 +51,7 @@
       "2023-12-25": 246,
       "2023-12-24": 232,
       "2023-12-23": 129,
-      "2023-12-22": 186
+      "2023-12-22": 148
     }
   },
   {
@@ -70,7 +71,7 @@
     "timeMonth": 0,
     "timeYear": 277,
     "dailyMinutesDown": {
-      "2024-07-17": 1297,
+      "2024-07-17": 1314,
       "2024-07-16": 1440,
       "2024-07-15": 1440,
       "2024-07-14": 1440,
@@ -302,7 +303,7 @@
     "timeMonth": 0,
     "timeYear": 1516,
     "dailyMinutesDown": {
-      "2024-07-17": 1297,
+      "2024-07-17": 1314,
       "2024-07-16": 1440,
       "2024-07-15": 1440,
       "2024-07-14": 1440,
@@ -606,7 +607,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-07-17": 1297,
+      "2024-07-17": 1314,
       "2024-07-16": 1440,
       "2024-07-15": 1440,
       "2024-07-14": 1440,
@@ -990,7 +991,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-07-17": 1297,
+      "2024-07-17": 1314,
       "2024-07-16": 1440,
       "2024-07-15": 1440,
       "2024-07-14": 1440,
@@ -1364,9 +1365,9 @@
     "slug": "mad-at-the-internet",
     "status": "up",
     "uptime": "85.35%",
-    "uptimeDay": "99.54%",
-    "uptimeWeek": "98.44%",
-    "uptimeMonth": "99.08%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.50%",
+    "uptimeMonth": "99.09%",
     "uptimeYear": "85.35%",
     "time": 1691,
     "timeDay": 1601,
@@ -1374,7 +1375,6 @@
     "timeMonth": 1713,
     "timeYear": 1691,
     "dailyMinutesDown": {
-      "2024-07-17": 7,
       "2024-07-13": 151,
       "2024-07-10": 246,
       "2024-04-30": 87,
@@ -1431,7 +1431,7 @@
       "2023-12-14": 196,
       "2023-12-13": 335,
       "2023-12-09": 38,
-      "2023-12-08": 35
+      "2023-12-08": 59
     }
   }
 ]
