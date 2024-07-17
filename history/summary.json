@@ -70,7 +70,7 @@
     "timeMonth": 0,
     "timeYear": 277,
     "dailyMinutesDown": {
-      "2024-07-17": 1379,
+      "2024-07-17": 1406,
       "2024-07-16": 1440,
       "2024-07-15": 1440,
       "2024-07-14": 1440,
@@ -302,7 +302,7 @@
     "timeMonth": 0,
     "timeYear": 1516,
     "dailyMinutesDown": {
-      "2024-07-17": 1379,
+      "2024-07-17": 1406,
       "2024-07-16": 1440,
       "2024-07-15": 1440,
       "2024-07-14": 1440,
@@ -568,9 +568,9 @@
     "slug": "kiwi-farms-tg-archive",
     "status": "down",
     "uptime": "99.25%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.07%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.24%",
     "time": 480,
     "timeDay": 1017,
@@ -578,7 +578,7 @@
     "timeMonth": 641,
     "timeYear": 481,
     "dailyMinutesDown": {
-      "2024-07-17": 1,
+      "2024-07-17": 28,
       "2024-05-29": 51,
       "2023-12-21": 492,
       "2023-12-20": 1440,
@@ -596,7 +596,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/kiwifarms.cc.ico",
     "slug": "kiwi-farms-fediverse",
     "status": "down",
-    "uptime": "4.23%",
+    "uptime": "4.22%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -607,7 +607,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-07-17": 1380,
+      "2024-07-17": 1406,
       "2024-07-16": 1440,
       "2024-07-15": 1440,
       "2024-07-14": 1440,
@@ -991,7 +991,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-07-17": 1380,
+      "2024-07-17": 1406,
       "2024-07-16": 1440,
       "2024-07-15": 1440,
       "2024-07-14": 1440,
@@ -1363,19 +1363,19 @@
     "url": "https://madattheinternet.com/",
     "icon": "https://icons.duckduckgo.com/ip3/madattheinternet.com.ico",
     "slug": "mad-at-the-internet",
-    "status": "up",
-    "uptime": "85.35%",
-    "uptimeDay": "98.93%",
-    "uptimeWeek": "98.35%",
+    "status": "down",
+    "uptime": "85.36%",
+    "uptimeDay": "98.88%",
+    "uptimeWeek": "98.34%",
     "uptimeMonth": "99.06%",
-    "uptimeYear": "85.35%",
+    "uptimeYear": "85.36%",
     "time": 1690,
     "timeDay": 1578,
     "timeWeek": 1663,
     "timeMonth": 1711,
     "timeYear": 1690,
     "dailyMinutesDown": {
-      "2024-07-17": 15,
+      "2024-07-17": 16,
       "2024-07-13": 151,
       "2024-07-10": 246,
       "2024-04-30": 87,
@@ -1432,7 +1432,7 @@
       "2023-12-14": 196,
       "2023-12-13": 335,
       "2023-12-09": 38,
-      "2023-12-08": 35
+      "2023-12-08": 16
     }
   }
 ]
