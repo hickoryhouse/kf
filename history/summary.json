@@ -4,10 +4,10 @@
     "url": "https://kiwifarms.net",
     "icon": "https://raw.githubusercontent.com/hickoryhouse/kf/master/assets/favicon.ico",
     "slug": "kiwi-farms-forum",
-    "status": "up",
+    "status": "down",
     "uptime": "99.56%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.16%",
     "time": 2128,
@@ -16,6 +16,7 @@
     "timeMonth": 2073,
     "timeYear": 2128,
     "dailyMinutesDown": {
+      "2024-09-11": 1,
       "2024-07-31": 16,
       "2024-05-04": 37,
       "2024-04-30": 36,
@@ -51,7 +52,7 @@
       "2023-12-25": 246,
       "2023-12-24": 232,
       "2023-12-23": 129,
-      "2023-12-22": 148
+      "2023-12-22": 132
     }
   },
   {
@@ -71,7 +72,8 @@
     "timeMonth": 0,
     "timeYear": 277,
     "dailyMinutesDown": {
-      "2024-09-10": 1114,
+      "2024-09-11": 55,
+      "2024-09-10": 1440,
       "2024-09-09": 1440,
       "2024-09-08": 1440,
       "2024-09-07": 1440,
@@ -294,10 +296,10 @@
     "url": "https://kiwifarms.hk",
     "icon": "https://raw.githubusercontent.com/hickoryhouse/kf/master/assets/favicon.ico",
     "slug": "kiwifarms-hk",
-    "status": "up",
+    "status": "down",
     "uptime": "97.68%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.68%",
     "time": 959,
@@ -306,6 +308,7 @@
     "timeMonth": 1203,
     "timeYear": 959,
     "dailyMinutesDown": {
+      "2024-09-11": 1,
       "2024-08-01": 19,
       "2024-05-04": 37,
       "2024-04-30": 36,
@@ -359,7 +362,8 @@
     "timeMonth": 0,
     "timeYear": 1516,
     "dailyMinutesDown": {
-      "2024-09-10": 1114,
+      "2024-09-11": 55,
+      "2024-09-10": 1440,
       "2024-09-09": 1440,
       "2024-09-08": 1440,
       "2024-09-07": 1440,
@@ -633,18 +637,19 @@
     "url": "https://kiwifarms.st",
     "icon": "https://raw.githubusercontent.com/hickoryhouse/kf/master/assets/favicon.ico",
     "slug": "kiwifarms-st",
-    "status": "up",
-    "uptime": "99.40%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "99.41%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.37%",
+    "uptimeYear": "99.38%",
     "time": 993,
     "timeDay": 233,
     "timeWeek": 313,
     "timeMonth": 298,
     "timeYear": 984,
     "dailyMinutesDown": {
+      "2024-09-11": 1,
       "2024-05-04": 37,
       "2024-04-30": 35,
       "2024-04-28": 19,
@@ -669,8 +674,7 @@
       "2023-12-28": 67,
       "2023-12-27": 324,
       "2023-12-26": 283,
-      "2023-12-25": 251,
-      "2023-12-24": 8
+      "2023-12-25": 209
     }
   },
   {
@@ -721,7 +725,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-10": 1114,
+      "2024-09-11": 56,
+      "2024-09-10": 1440,
       "2024-09-09": 1440,
       "2024-09-08": 1440,
       "2024-09-07": 1440,
@@ -1084,8 +1089,7 @@
       "2023-09-16": 1440,
       "2023-09-15": 1440,
       "2023-09-14": 1440,
-      "2023-09-13": 1440,
-      "2023-09-12": 1440
+      "2023-09-13": 1440
     }
   },
   {
@@ -1105,7 +1109,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-10": 1115,
+      "2024-09-11": 56,
+      "2024-09-10": 1440,
       "2024-09-09": 1440,
       "2024-09-08": 1440,
       "2024-09-07": 1440,
@@ -1468,8 +1473,7 @@
       "2023-09-16": 1440,
       "2023-09-15": 1440,
       "2023-09-14": 1440,
-      "2023-09-13": 1440,
-      "2023-09-12": 1440
+      "2023-09-13": 1440
     }
   },
   {
@@ -1478,11 +1482,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/madattheinternet.com.ico",
     "slug": "mad-at-the-internet",
     "status": "up",
-    "uptime": "87.87%",
+    "uptime": "87.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "87.87%",
+    "uptimeYear": "87.88%",
     "time": 1739,
     "timeDay": 1817,
     "timeWeek": 2361,
