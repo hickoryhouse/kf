@@ -4,19 +4,19 @@
     "url": "https://kiwifarms.net",
     "icon": "https://raw.githubusercontent.com/hickoryhouse/kf/master/assets/favicon.ico",
     "slug": "kiwi-farms-forum",
-    "status": "down",
+    "status": "up",
     "uptime": "99.57%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.39%",
-    "uptimeMonth": "99.75%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "99.35%",
+    "uptimeMonth": "99.74%",
     "uptimeYear": "99.16%",
-    "time": 2127,
-    "timeDay": 1877,
-    "timeWeek": 2219,
-    "timeMonth": 2119,
-    "timeYear": 2127,
+    "time": 2131,
+    "timeDay": 3436,
+    "timeWeek": 2492,
+    "timeMonth": 2187,
+    "timeYear": 2131,
     "dailyMinutesDown": {
-      "2024-09-21": 1,
+      "2024-09-21": 5,
       "2024-09-14": 60,
       "2024-09-11": 47,
       "2024-07-31": 16,
@@ -66,7 +66,7 @@
     "uptime": "4.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.51%",
-    "uptimeMonth": "27.04%",
+    "uptimeMonth": "27.05%",
     "uptimeYear": "4.91%",
     "time": 1123,
     "timeDay": 1057,
@@ -359,7 +359,7 @@
     "uptime": "4.14%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.45%",
-    "uptimeMonth": "27.03%",
+    "uptimeMonth": "27.04%",
     "uptimeYear": "4.14%",
     "time": 1429,
     "timeDay": 1015,
@@ -644,10 +644,10 @@
     "url": "https://kiwifarms.st",
     "icon": "https://raw.githubusercontent.com/hickoryhouse/kf/master/assets/favicon.ico",
     "slug": "kiwifarms-st",
-    "status": "up",
+    "status": "down",
     "uptime": "99.42%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.51%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.50%",
     "uptimeMonth": "99.78%",
     "uptimeYear": "99.37%",
     "time": 991,
@@ -656,6 +656,7 @@
     "timeMonth": 399,
     "timeYear": 973,
     "dailyMinutesDown": {
+      "2024-09-21": 1,
       "2024-09-14": 49,
       "2024-09-11": 47,
       "2024-05-04": 37,
@@ -682,7 +683,7 @@
       "2023-12-28": 67,
       "2023-12-27": 324,
       "2023-12-26": 283,
-      "2023-12-25": 161
+      "2023-12-25": 145
     }
   },
   {
@@ -733,7 +734,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-21": 532,
+      "2024-09-21": 537,
       "2024-09-20": 1440,
       "2024-09-19": 1440,
       "2024-09-18": 1440,
@@ -1117,7 +1118,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-21": 532,
+      "2024-09-21": 537,
       "2024-09-20": 1440,
       "2024-09-19": 1440,
       "2024-09-18": 1440,
@@ -1491,9 +1492,9 @@
     "slug": "mad-at-the-internet",
     "status": "up",
     "uptime": "88.26%",
-    "uptimeDay": "99.26%",
-    "uptimeWeek": "99.39%",
-    "uptimeMonth": "99.82%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.50%",
+    "uptimeMonth": "99.84%",
     "uptimeYear": "88.26%",
     "time": 1748,
     "timeDay": 1782,
@@ -1501,7 +1502,6 @@
     "timeMonth": 2138,
     "timeYear": 1748,
     "dailyMinutesDown": {
-      "2024-09-21": 11,
       "2024-09-14": 50,
       "2024-08-29": 19,
       "2024-07-30": 49,
@@ -1560,7 +1560,8 @@
       "2023-12-16": 1045,
       "2023-12-15": 111,
       "2023-12-14": 196,
-      "2023-12-13": 335
+      "2023-12-13": 335,
+      "2023-12-09": 18
     }
   }
 ]
