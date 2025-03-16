@@ -11,9 +11,9 @@
     "uptimeMonth": "99.80%",
     "uptimeYear": "99.88%",
     "time": 1969,
-    "timeDay": 1668,
-    "timeWeek": 1830,
-    "timeMonth": 1836,
+    "timeDay": 1829,
+    "timeWeek": 1823,
+    "timeMonth": 1842,
     "timeYear": 1958,
     "dailyMinutesDown": {
       "2025-03-11": 90,
@@ -40,16 +40,16 @@
     "icon": "https://raw.githubusercontent.com/hickoryhouse/kf/master/assets/favicon.ico",
     "slug": "kiwifarms-us",
     "status": "up",
-    "uptime": "46.13%",
+    "uptime": "46.20%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.11%",
     "uptimeMonth": "99.75%",
-    "uptimeYear": "50.34%",
-    "time": 1088,
-    "timeDay": 1336,
-    "timeWeek": 1369,
-    "timeMonth": 1118,
-    "timeYear": 1088,
+    "uptimeYear": "50.50%",
+    "time": 1090,
+    "timeDay": 1468,
+    "timeWeek": 1433,
+    "timeMonth": 1133,
+    "timeYear": 1090,
     "dailyMinutesDown": {
       "2025-03-11": 90,
       "2025-02-19": 22,
@@ -237,8 +237,7 @@
       "2024-03-20": 1440,
       "2024-03-19": 1440,
       "2024-03-18": 1440,
-      "2024-03-17": 1440,
-      "2024-03-16": 1440
+      "2024-03-17": 1440
     }
   },
   {
@@ -252,11 +251,11 @@
     "uptimeWeek": "99.11%",
     "uptimeMonth": "99.75%",
     "uptimeYear": "99.88%",
-    "time": 1192,
-    "timeDay": 904,
-    "timeWeek": 1034,
-    "timeMonth": 1089,
-    "timeYear": 1181,
+    "time": 1189,
+    "timeDay": 935,
+    "timeWeek": 1009,
+    "timeMonth": 1086,
+    "timeYear": 1180,
     "dailyMinutesDown": {
       "2025-03-11": 90,
       "2025-02-19": 21,
@@ -282,15 +281,15 @@
     "icon": "https://raw.githubusercontent.com/hickoryhouse/kf/master/assets/favicon.ico",
     "slug": "kiwifarms-tw",
     "status": "up",
-    "uptime": "41.25%",
+    "uptime": "41.33%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.11%",
     "uptimeMonth": "99.80%",
-    "uptimeYear": "50.35%",
+    "uptimeYear": "50.50%",
     "time": 1075,
-    "timeDay": 1386,
-    "timeWeek": 977,
-    "timeMonth": 1062,
+    "timeDay": 1042,
+    "timeWeek": 995,
+    "timeMonth": 1063,
     "timeYear": 1075,
     "dailyMinutesDown": {
       "2025-03-11": 90,
@@ -478,8 +477,7 @@
       "2024-03-20": 1440,
       "2024-03-19": 1440,
       "2024-03-18": 1440,
-      "2024-03-17": 1440,
-      "2024-03-16": 1440
+      "2024-03-17": 1440
     }
   },
   {
@@ -494,8 +492,8 @@
     "uptimeMonth": "99.80%",
     "uptimeYear": "99.92%",
     "time": 261,
-    "timeDay": 241,
-    "timeWeek": 225,
+    "timeDay": 219,
+    "timeWeek": 226,
     "timeMonth": 238,
     "timeYear": 260,
     "dailyMinutesDown": {
@@ -522,8 +520,8 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.52%",
     "time": 652,
-    "timeDay": 532,
-    "timeWeek": 561,
+    "timeDay": 608,
+    "timeWeek": 575,
     "timeMonth": 553,
     "timeYear": 666,
     "dailyMinutesDown": {
@@ -554,7 +552,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-15": 763,
+      "2025-03-16": 127,
+      "2025-03-15": 1440,
       "2025-03-14": 1440,
       "2025-03-13": 1440,
       "2025-03-12": 1440,
@@ -917,8 +916,7 @@
       "2024-03-20": 1440,
       "2024-03-19": 1440,
       "2024-03-18": 1440,
-      "2024-03-17": 1440,
-      "2024-03-16": 1440
+      "2024-03-17": 1440
     }
   },
   {
@@ -927,7 +925,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/git.kiwifarms.net.ico",
     "slug": "kiwi-foss-git",
     "status": "down",
-    "uptime": "2.68%",
+    "uptime": "2.67%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -938,7 +936,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-15": 763,
+      "2025-03-16": 127,
+      "2025-03-15": 1440,
       "2025-03-14": 1440,
       "2025-03-13": 1440,
       "2025-03-12": 1440,
@@ -1301,8 +1300,7 @@
       "2024-03-20": 1440,
       "2024-03-19": 1440,
       "2024-03-18": 1440,
-      "2024-03-17": 1440,
-      "2024-03-16": 1440
+      "2024-03-17": 1440
     }
   },
   {
@@ -1311,16 +1309,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/madattheinternet.com.ico",
     "slug": "mad-at-the-internet",
     "status": "up",
-    "uptime": "91.52%",
+    "uptime": "91.53%",
     "uptimeDay": "94.40%",
     "uptimeWeek": "96.83%",
     "uptimeMonth": "99.22%",
     "uptimeYear": "96.59%",
-    "time": 1560,
-    "timeDay": 334,
-    "timeWeek": 1477,
-    "timeMonth": 1728,
-    "timeYear": 1630,
+    "time": 1559,
+    "timeDay": 462,
+    "timeWeek": 1385,
+    "timeMonth": 1708,
+    "timeYear": 1629,
     "dailyMinutesDown": {
       "2025-03-15": 81,
       "2025-03-13": 239,
