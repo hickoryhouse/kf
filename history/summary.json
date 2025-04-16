@@ -11,9 +11,9 @@
     "uptimeMonth": "99.67%",
     "uptimeYear": "99.87%",
     "time": 1947,
-    "timeDay": 1739,
-    "timeWeek": 1945,
-    "timeMonth": 1854,
+    "timeDay": 1809,
+    "timeWeek": 1928,
+    "timeMonth": 1853,
     "timeYear": 1933,
     "dailyMinutesDown": {
       "2025-03-25": 145,
@@ -38,16 +38,16 @@
     "icon": "https://raw.githubusercontent.com/hickoryhouse/kf/master/assets/favicon.ico",
     "slug": "kiwifarms-us",
     "status": "up",
-    "uptime": "49.97%",
+    "uptime": "50.01%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.67%",
-    "uptimeYear": "58.88%",
-    "time": 1090,
-    "timeDay": 1441,
-    "timeWeek": 1145,
-    "timeMonth": 1097,
-    "timeYear": 1090,
+    "uptimeYear": "58.96%",
+    "time": 1092,
+    "timeDay": 2021,
+    "timeWeek": 1210,
+    "timeMonth": 1102,
+    "timeYear": 1092,
     "dailyMinutesDown": {
       "2025-03-25": 145,
       "2025-03-11": 90,
@@ -205,8 +205,7 @@
       "2024-04-20": 1440,
       "2024-04-19": 1440,
       "2024-04-18": 1440,
-      "2024-04-17": 1440,
-      "2024-04-16": 1440
+      "2024-04-17": 1440
     }
   },
   {
@@ -221,9 +220,9 @@
     "uptimeMonth": "99.67%",
     "uptimeYear": "99.87%",
     "time": 1184,
-    "timeDay": 2326,
-    "timeWeek": 1317,
-    "timeMonth": 1214,
+    "timeDay": 2237,
+    "timeWeek": 1290,
+    "timeMonth": 1212,
     "timeYear": 1170,
     "dailyMinutesDown": {
       "2025-03-25": 144,
@@ -248,15 +247,15 @@
     "icon": "https://raw.githubusercontent.com/hickoryhouse/kf/master/assets/favicon.ico",
     "slug": "kiwifarms-tw",
     "status": "up",
-    "uptime": "45.03%",
+    "uptime": "45.07%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.71%",
-    "uptimeYear": "58.88%",
+    "uptimeYear": "58.97%",
     "time": 1075,
-    "timeDay": 962,
-    "timeWeek": 1092,
-    "timeMonth": 1072,
+    "timeDay": 1025,
+    "timeWeek": 1081,
+    "timeMonth": 1073,
     "timeYear": 1075,
     "dailyMinutesDown": {
       "2025-03-25": 126,
@@ -414,8 +413,7 @@
       "2024-04-20": 1440,
       "2024-04-19": 1440,
       "2024-04-18": 1440,
-      "2024-04-17": 1440,
-      "2024-04-16": 1440
+      "2024-04-17": 1440
     }
   },
   {
@@ -430,8 +428,8 @@
     "uptimeMonth": "99.71%",
     "uptimeYear": "99.89%",
     "time": 258,
-    "timeDay": 227,
-    "timeWeek": 264,
+    "timeDay": 272,
+    "timeWeek": 263,
     "timeMonth": 232,
     "timeYear": 253,
     "dailyMinutesDown": {
@@ -459,10 +457,10 @@
     "uptimeMonth": "98.86%",
     "uptimeYear": "99.43%",
     "time": 663,
-    "timeDay": 598,
-    "timeWeek": 512,
-    "timeMonth": 608,
-    "timeYear": 679,
+    "timeDay": 651,
+    "timeWeek": 533,
+    "timeMonth": 611,
+    "timeYear": 680,
     "dailyMinutesDown": {
       "2025-04-05": 467,
       "2025-03-21": 34,
@@ -493,7 +491,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-15": 1119,
+      "2025-04-16": 129,
+      "2025-04-15": 1440,
       "2025-04-14": 1440,
       "2025-04-13": 1440,
       "2025-04-12": 1440,
@@ -856,8 +855,7 @@
       "2024-04-20": 1440,
       "2024-04-19": 1440,
       "2024-04-18": 1440,
-      "2024-04-17": 1440,
-      "2024-04-16": 1440
+      "2024-04-17": 1440
     }
   },
   {
@@ -877,7 +875,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-15": 1119,
+      "2025-04-16": 129,
+      "2025-04-15": 1440,
       "2025-04-14": 1440,
       "2025-04-13": 1440,
       "2025-04-12": 1440,
@@ -1240,8 +1239,7 @@
       "2024-04-20": 1440,
       "2024-04-19": 1440,
       "2024-04-18": 1440,
-      "2024-04-17": 1440,
-      "2024-04-16": 1440
+      "2024-04-17": 1440
     }
   },
   {
@@ -1256,8 +1254,8 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "98.59%",
     "time": 1523,
-    "timeDay": 492,
-    "timeWeek": 475,
+    "timeDay": 482,
+    "timeWeek": 465,
     "timeMonth": 463,
     "timeYear": 1581,
     "dailyMinutesDown": {
