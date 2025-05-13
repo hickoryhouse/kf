@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.89%",
-    "time": 1967,
-    "timeDay": 2672,
-    "timeWeek": 2197,
-    "timeMonth": 2348,
-    "timeYear": 1959,
+    "time": 1966,
+    "timeDay": 2420,
+    "timeWeek": 2204,
+    "timeMonth": 2351,
+    "timeYear": 1960,
     "dailyMinutesDown": {
       "2025-04-20": 16,
       "2025-03-25": 145,
@@ -35,16 +35,16 @@
     "icon": "https://raw.githubusercontent.com/hickoryhouse/kf/master/assets/favicon.ico",
     "slug": "kiwifarms-us",
     "status": "up",
-    "uptime": "52.90%",
+    "uptime": "52.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "66.28%",
-    "time": 1131,
-    "timeDay": 1123,
-    "timeWeek": 1194,
-    "timeMonth": 1426,
-    "timeYear": 1131,
+    "uptimeYear": "66.48%",
+    "time": 1130,
+    "timeDay": 959,
+    "timeWeek": 1123,
+    "timeMonth": 1429,
+    "timeYear": 1130,
     "dailyMinutesDown": {
       "2025-03-25": 145,
       "2025-03-11": 90,
@@ -175,8 +175,7 @@
       "2024-05-17": 1440,
       "2024-05-16": 1440,
       "2024-05-15": 1440,
-      "2024-05-14": 1440,
-      "2024-05-13": 1440
+      "2024-05-14": 1440
     }
   },
   {
@@ -190,10 +189,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.88%",
-    "time": 1196,
-    "timeDay": 1196,
-    "timeWeek": 1204,
-    "timeMonth": 1488,
+    "time": 1195,
+    "timeDay": 871,
+    "timeWeek": 1165,
+    "timeMonth": 1485,
     "timeYear": 1170,
     "dailyMinutesDown": {
       "2025-04-20": 16,
@@ -216,15 +215,15 @@
     "icon": "https://raw.githubusercontent.com/hickoryhouse/kf/master/assets/favicon.ico",
     "slug": "kiwifarms-tw",
     "status": "up",
-    "uptime": "47.94%",
+    "uptime": "48.02%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "66.28%",
+    "uptimeYear": "66.49%",
     "time": 1094,
-    "timeDay": 1033,
-    "timeWeek": 1170,
-    "timeMonth": 1223,
+    "timeDay": 957,
+    "timeWeek": 1153,
+    "timeMonth": 1221,
     "timeYear": 1094,
     "dailyMinutesDown": {
       "2025-03-25": 126,
@@ -355,8 +354,7 @@
       "2024-05-17": 1440,
       "2024-05-16": 1440,
       "2024-05-15": 1440,
-      "2024-05-14": 1440,
-      "2024-05-13": 1440
+      "2024-05-14": 1440
     }
   },
   {
@@ -371,8 +369,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
     "time": 266,
-    "timeDay": 261,
-    "timeWeek": 216,
+    "timeDay": 247,
+    "timeWeek": 218,
     "timeMonth": 413,
     "timeYear": 265,
     "dailyMinutesDown": {
@@ -397,10 +395,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.43%",
     "time": 675,
-    "timeDay": 731,
-    "timeWeek": 645,
-    "timeMonth": 612,
-    "timeYear": 690,
+    "timeDay": 720,
+    "timeWeek": 660,
+    "timeMonth": 616,
+    "timeYear": 691,
     "dailyMinutesDown": {
       "2025-04-05": 467,
       "2025-03-21": 34,
@@ -431,7 +429,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-12": 1123,
+      "2025-05-13": 780,
+      "2025-05-12": 1440,
       "2025-05-11": 1440,
       "2025-05-10": 1440,
       "2025-05-09": 1440,
@@ -794,8 +793,7 @@
       "2024-05-17": 1440,
       "2024-05-16": 1440,
       "2024-05-15": 1440,
-      "2024-05-14": 1440,
-      "2024-05-13": 1440
+      "2024-05-14": 1440
     }
   },
   {
@@ -815,7 +813,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-12": 1123,
+      "2025-05-13": 780,
+      "2025-05-12": 1440,
       "2025-05-11": 1440,
       "2025-05-10": 1440,
       "2025-05-09": 1440,
@@ -1178,8 +1177,7 @@
       "2024-05-17": 1440,
       "2024-05-16": 1440,
       "2024-05-15": 1440,
-      "2024-05-14": 1440,
-      "2024-05-13": 1440
+      "2024-05-14": 1440
     }
   },
   {
@@ -1188,16 +1186,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/madattheinternet.com.ico",
     "slug": "mad-at-the-internet",
     "status": "up",
-    "uptime": "92.40%",
+    "uptime": "92.41%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.83%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "98.65%",
-    "time": 1495,
-    "timeDay": 416,
-    "timeWeek": 489,
+    "time": 1494,
+    "timeDay": 370,
+    "timeWeek": 462,
     "timeMonth": 476,
-    "timeYear": 1544,
+    "timeYear": 1543,
     "dailyMinutesDown": {
       "2025-05-05": 17,
       "2025-03-16": 18,
