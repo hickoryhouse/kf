@@ -7,13 +7,13 @@
     "status": "up",
     "uptime": "99.68%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.16%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.58%",
     "uptimeYear": "99.85%",
     "time": 1986,
-    "timeDay": 1826,
-    "timeWeek": 2607,
-    "timeMonth": 2274,
+    "timeDay": 1477,
+    "timeWeek": 2104,
+    "timeMonth": 2266,
     "timeYear": 2001,
     "dailyMinutesDown": {
       "2025-06-09": 186,
@@ -36,15 +36,15 @@
     "icon": "https://raw.githubusercontent.com/hickoryhouse/kf/master/assets/favicon.ico",
     "slug": "kiwifarms-us",
     "status": "up",
-    "uptime": "56.17%",
+    "uptime": "56.22%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.16%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.58%",
-    "uptimeYear": "75.76%",
+    "uptimeYear": "75.92%",
     "time": 1154,
-    "timeDay": 964,
-    "timeWeek": 1305,
-    "timeMonth": 1361,
+    "timeDay": 1045,
+    "timeWeek": 1198,
+    "timeMonth": 1359,
     "timeYear": 1154,
     "dailyMinutesDown": {
       "2025-06-09": 186,
@@ -142,8 +142,7 @@
       "2024-06-21": 1440,
       "2024-06-20": 1440,
       "2024-06-19": 1440,
-      "2024-06-18": 1440,
-      "2024-06-17": 1440
+      "2024-06-18": 1440
     }
   },
   {
@@ -154,13 +153,13 @@
     "status": "up",
     "uptime": "98.77%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.16%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.58%",
     "uptimeYear": "99.85%",
     "time": 1209,
-    "timeDay": 1397,
-    "timeWeek": 1757,
-    "timeMonth": 1494,
+    "timeDay": 886,
+    "timeWeek": 1734,
+    "timeMonth": 1492,
     "timeYear": 1205,
     "dailyMinutesDown": {
       "2025-06-09": 186,
@@ -184,16 +183,16 @@
     "icon": "https://raw.githubusercontent.com/hickoryhouse/kf/master/assets/favicon.ico",
     "slug": "kiwifarms-tw",
     "status": "up",
-    "uptime": "51.24%",
+    "uptime": "51.29%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.16%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.58%",
-    "uptimeYear": "75.77%",
-    "time": 1113,
-    "timeDay": 2051,
-    "timeWeek": 1642,
-    "timeMonth": 1269,
-    "timeYear": 1113,
+    "uptimeYear": "75.92%",
+    "time": 1114,
+    "timeDay": 2140,
+    "timeWeek": 1555,
+    "timeMonth": 1267,
+    "timeYear": 1114,
     "dailyMinutesDown": {
       "2025-06-09": 186,
       "2025-03-25": 126,
@@ -289,8 +288,7 @@
       "2024-06-21": 1440,
       "2024-06-20": 1440,
       "2024-06-19": 1440,
-      "2024-06-18": 1440,
-      "2024-06-17": 1440
+      "2024-06-18": 1440
     }
   },
   {
@@ -301,13 +299,13 @@
     "status": "up",
     "uptime": "99.62%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.16%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.58%",
     "uptimeYear": "99.87%",
     "time": 264,
-    "timeDay": 215,
-    "timeWeek": 270,
-    "timeMonth": 263,
+    "timeDay": 123,
+    "timeWeek": 258,
+    "timeMonth": 261,
     "timeYear": 269,
     "dailyMinutesDown": {
       "2025-06-09": 186,
@@ -332,8 +330,8 @@
     "uptimeMonth": "99.20%",
     "uptimeYear": "99.37%",
     "time": 690,
-    "timeDay": 807,
-    "timeWeek": 618,
+    "timeDay": 701,
+    "timeWeek": 615,
     "timeMonth": 639,
     "timeYear": 705,
     "dailyMinutesDown": {
@@ -355,7 +353,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/kiwifarms.cc.ico",
     "slug": "kiwi-farms-fediverse",
     "status": "down",
-    "uptime": "2.78%",
+    "uptime": "2.77%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -366,7 +364,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-16": 781,
+      "2025-06-17": 141,
+      "2025-06-16": 1440,
       "2025-06-15": 1440,
       "2025-06-14": 1440,
       "2025-06-13": 1440,
@@ -729,8 +728,7 @@
       "2024-06-21": 1440,
       "2024-06-20": 1440,
       "2024-06-19": 1440,
-      "2024-06-18": 1440,
-      "2024-06-17": 1440
+      "2024-06-18": 1440
     }
   },
   {
@@ -750,7 +748,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-16": 781,
+      "2025-06-17": 141,
+      "2025-06-16": 1440,
       "2025-06-15": 1440,
       "2025-06-14": 1440,
       "2025-06-13": 1440,
@@ -1113,8 +1112,7 @@
       "2024-06-21": 1440,
       "2024-06-20": 1440,
       "2024-06-19": 1440,
-      "2024-06-18": 1440,
-      "2024-06-17": 1440
+      "2024-06-18": 1440
     }
   },
   {
@@ -1129,10 +1127,10 @@
     "uptimeMonth": "99.42%",
     "uptimeYear": "98.61%",
     "time": 1438,
-    "timeDay": 321,
-    "timeWeek": 405,
-    "timeMonth": 439,
-    "timeYear": 1494,
+    "timeDay": 401,
+    "timeWeek": 392,
+    "timeMonth": 441,
+    "timeYear": 1492,
     "dailyMinutesDown": {
       "2025-06-11": 252,
       "2025-05-05": 17,
