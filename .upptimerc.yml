@@ -44,8 +44,6 @@ sites:
       - 403
       - 200
       - 203
-  - name: Kiwi Farms Fediverse
-    url: https://kiwifarms.cc
   - name: Kiwi FOSS Git
     url: https://git.kiwifarms.net
   - name: Mad at the Internet
