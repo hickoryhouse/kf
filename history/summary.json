@@ -52,8 +52,8 @@
     "slug": "kiwifarms-us",
     "status": "down",
     "uptime": "59.20%",
-    "uptimeDay": "15.17%",
-    "uptimeWeek": "87.88%",
+    "uptimeDay": "15.11%",
+    "uptimeWeek": "87.87%",
     "uptimeMonth": "96.02%",
     "uptimeYear": "86.45%",
     "time": 1115,
@@ -62,7 +62,7 @@
     "timeMonth": 948,
     "timeYear": 1115,
     "dailyMinutesDown": {
-      "2025-07-27": 43,
+      "2025-07-27": 44,
       "2025-07-26": 1178,
       "2025-07-17": 79,
       "2025-07-16": 36,
@@ -363,7 +363,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-27": 44,
+      "2025-07-27": 45,
       "2025-07-26": 1440,
       "2025-07-25": 1440,
       "2025-07-24": 1440,
