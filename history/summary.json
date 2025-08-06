@@ -54,7 +54,7 @@
     "uptime": "58.08%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "62.26%",
+    "uptimeMonth": "62.22%",
     "uptimeYear": "86.45%",
     "time": 1115,
     "timeDay": 0,
@@ -62,7 +62,7 @@
     "timeMonth": 1020,
     "timeYear": 1115,
     "dailyMinutesDown": {
-      "2025-08-06": 447,
+      "2025-08-06": 464,
       "2025-08-05": 1440,
       "2025-08-04": 1440,
       "2025-08-03": 1440,
@@ -295,19 +295,19 @@
     "url": "https://kiwifarms.tv",
     "icon": "https://icons.duckduckgo.com/ip3/kiwifarms.tv.ico",
     "slug": "kiwifarms-tv",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 646,
-    "timeDay": 333,
-    "timeWeek": 799,
-    "timeMonth": 646,
-    "timeYear": 646,
+    "status": "up",
+    "uptime": "99.89%",
+    "uptimeDay": "98.83%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
+    "time": 639,
+    "timeDay": 338,
+    "timeWeek": 784,
+    "timeMonth": 639,
+    "timeYear": 639,
     "dailyMinutesDown": {
-      "2025-08-06": 1
+      "2025-08-06": 17
     }
   },
   {
@@ -356,7 +356,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-06": 447,
+      "2025-08-06": 464,
       "2025-08-05": 1440,
       "2025-08-04": 1440,
       "2025-08-03": 1440,
