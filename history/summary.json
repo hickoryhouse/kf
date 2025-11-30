@@ -11,10 +11,10 @@
     "uptimeMonth": "99.31%",
     "uptimeYear": "99.41%",
     "time": 1902,
-    "timeDay": 1336,
-    "timeWeek": 1641,
+    "timeDay": 1316,
+    "timeWeek": 1626,
     "timeMonth": 1756,
-    "timeYear": 1913,
+    "timeYear": 1912,
     "dailyMinutesDown": {
       "2025-11-23": 301,
       "2025-10-23": 375,
@@ -46,8 +46,7 @@
       "2025-03-11": 90,
       "2025-01-15": 20,
       "2024-12-11": 115,
-      "2024-12-05": 26,
-      "2024-11-30": 20
+      "2024-12-05": 26
     }
   },
   {
@@ -56,18 +55,19 @@
     "icon": "https://raw.githubusercontent.com/hickoryhouse/kf/master/assets/favicon.ico",
     "slug": "kiwifarms-us",
     "status": "down",
-    "uptime": "52.03%",
+    "uptime": "52.01%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "72.41%",
+    "uptimeYear": "72.32%",
     "time": 1104,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1112,
     "dailyMinutesDown": {
-      "2025-11-29": 1121,
+      "2025-11-30": 148,
+      "2025-11-29": 1440,
       "2025-11-28": 1440,
       "2025-11-27": 1440,
       "2025-11-26": 1440,
@@ -185,8 +185,7 @@
       "2025-03-11": 90,
       "2025-02-19": 22,
       "2024-12-11": 115,
-      "2024-12-05": 25,
-      "2024-11-30": 20
+      "2024-12-05": 25
     }
   },
   {
@@ -201,10 +200,10 @@
     "uptimeMonth": "99.31%",
     "uptimeYear": "99.39%",
     "time": 1161,
-    "timeDay": 763,
-    "timeWeek": 759,
-    "timeMonth": 1060,
-    "timeYear": 1168,
+    "timeDay": 960,
+    "timeWeek": 758,
+    "timeMonth": 1061,
+    "timeYear": 1167,
     "dailyMinutesDown": {
       "2025-11-23": 301,
       "2025-10-23": 392,
@@ -232,8 +231,7 @@
       "2025-03-11": 90,
       "2025-02-19": 21,
       "2024-12-11": 115,
-      "2024-12-05": 25,
-      "2024-11-30": 22
+      "2024-12-05": 25
     }
   },
   {
@@ -242,15 +240,15 @@
     "icon": "https://raw.githubusercontent.com/hickoryhouse/kf/master/assets/favicon.ico",
     "slug": "kiwifarms-tw",
     "status": "up",
-    "uptime": "62.42%",
+    "uptime": "62.44%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "97.01%",
     "uptimeMonth": "99.27%",
     "uptimeYear": "99.47%",
-    "time": 1071,
-    "timeDay": 679,
-    "timeWeek": 762,
-    "timeMonth": 856,
+    "time": 1070,
+    "timeDay": 671,
+    "timeWeek": 759,
+    "timeMonth": 853,
     "timeYear": 1074,
     "dailyMinutesDown": {
       "2025-11-23": 301,
@@ -295,9 +293,9 @@
     "uptimeMonth": "99.31%",
     "uptimeYear": "99.50%",
     "time": 276,
-    "timeDay": 176,
-    "timeWeek": 173,
-    "timeMonth": 259,
+    "timeDay": 224,
+    "timeWeek": 177,
+    "timeMonth": 260,
     "timeYear": 280,
     "dailyMinutesDown": {
       "2025-11-23": 301,
@@ -330,18 +328,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/kiwifarms.tv.ico",
     "slug": "kiwifarms-tv",
     "status": "down",
-    "uptime": "45.86%",
+    "uptime": "45.74%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "45.86%",
+    "uptimeYear": "45.74%",
     "time": 472,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 472,
     "dailyMinutesDown": {
-      "2025-11-29": 1121,
+      "2025-11-30": 149,
+      "2025-11-29": 1440,
       "2025-11-28": 1440,
       "2025-11-27": 1440,
       "2025-11-26": 1440,
@@ -423,12 +422,12 @@
     "uptime": "95.18%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "52.92%",
+    "uptimeMonth": "53.98%",
     "uptimeYear": "89.71%",
     "time": 591,
-    "timeDay": 456,
-    "timeWeek": 573,
-    "timeMonth": 574,
+    "timeDay": 451,
+    "timeWeek": 576,
+    "timeMonth": 572,
     "timeYear": 588,
     "dailyMinutesDown": {
       "2025-11-13": 147,
@@ -495,7 +494,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-29": 1121,
+      "2025-11-30": 149,
+      "2025-11-29": 1440,
       "2025-11-28": 1440,
       "2025-11-27": 1440,
       "2025-11-26": 1440,
@@ -858,8 +858,7 @@
       "2024-12-04": 1440,
       "2024-12-03": 1440,
       "2024-12-02": 1440,
-      "2024-12-01": 1440,
-      "2024-11-30": 1440
+      "2024-12-01": 1440
     }
   },
   {
@@ -873,11 +872,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.05%",
-    "time": 933,
-    "timeDay": 586,
-    "timeWeek": 558,
+    "time": 932,
+    "timeDay": 601,
+    "timeWeek": 544,
     "timeMonth": 547,
-    "timeYear": 876,
+    "timeYear": 875,
     "dailyMinutesDown": {
       "2025-09-10": 886,
       "2025-09-09": 82,
